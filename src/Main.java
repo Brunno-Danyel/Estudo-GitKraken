@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("Teste de cherrypick!");
 
+        System.out.println("Teste para deixar a modificação em stash 01");
+
     }
 }

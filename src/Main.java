@@ -10,5 +10,7 @@ public class Main {
 
         System.out.println("Teste para deixar a modificação em stash 01");
 
+        System.out.println("Teste para deixar a modificação em stash 02");
+
     }
 }

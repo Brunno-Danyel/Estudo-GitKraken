@@ -5,5 +5,8 @@ public class Main {
         System.out.println("Escreva o primeiro caso de conflito!");
 
         System.out.println("Escreva o SEGUNDO caso de conflito!");
+
+        System.out.println("Teste de cherrypick!");
+
     }
 }
